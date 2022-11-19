@@ -1,0 +1,76 @@
+* a(n) ⓒ (e)s
+
+* a(n) [x] ⓤ (e)s [x]   <= 셀 수 없는 명사는 관사나 복수형 어미 붙을 수 없다.
+
+    cf) the(정관사) 는 가능. Show me the money
+
+
+* 항상 복수형으로 쓰이는 명사 (쌍으로 이루어진 명사)
+
+    ex) glasses, scissors, trousers, pants, jeans, socks, shoes
+
+    => 셀 수 없다고 취급하여 셀 때 단위명사가 붙는다.
+
+
+* 단수와 복수의 형태가 같은 명사도 있다.
+
+    ex) sheep, deer, fish
+
+    cf) ten fish    (o)     <= 광어 10마리
+        ten fishes  (o)     <= 모둠회 10마리
+
+
+
+* Coffee 는 셀 수 없는명사. But 상품화 되었다고 보는경우 (주문할 때) 는! 가능
+
+    ex) Two coffes, plz. (o)
+
+
+* 고유명사는 셀 수 없는 명사 취급
+
+    cf) a Piccaso (o)   <= 피카소 작품 1점
+    cf) a Davies  (o)   <= 데이비드라는 이름의 사람 (모르는 사람)
+
+
+
+* 셀수 없는 명사인데 -s 가 붙어서 다른 뜻이 되는 단어들
+
+    airs: 분위기
+    
+    waters: 바다
+
+    papers: 논문, 신문, 리포트
+
+    분위기: airs
+    
+    바다: waters
+
+    논문, 신문, 리포트: papers
+
+
+* 집합적 개념을 나타내는 명사는 셀 수 없는 명사
+
+    money, homework, information, furniture;
+
+    advice, clothing(의류), mail(우편물{편지, 엽서, 택배등...}), evidence, equipment;
+
+    traffic 교통(교통혼잡);
+
+    -e(ry) 어미가 붙은것들.
+
+        ex) jewelry, machinery
+
+    
+
+    
+* 셀 수 x 명사는 단위나 용기로 센다. 이때 단위나 용기가 복수명사가 됨 (x >= 2)
+
+
+
+make a (large) forune: 많은 돈을 벌다
+
+    large가 들어가면 강조! 의 의미 
+
+
+
+* a lot of, lots of, plenty of 는 ⓒ ⓤ 둘 다 수식해줌. 뜻은 "많은"
